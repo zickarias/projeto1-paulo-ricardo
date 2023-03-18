@@ -1,4 +1,2 @@
 Hello 'People, i'm a I.A'
-Sistema de login:
-Username:
-Password:
+Digite sua idade:
